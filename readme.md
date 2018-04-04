@@ -1,1 +1,1 @@
-this is a git demo. where getet
+this is a git demo. where get
